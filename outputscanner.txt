@@ -1,0 +1,130 @@
+[
+  {
+    "lexeme": "int",
+    "token": "KEYWORD"
+  },
+  {
+    "lexeme": "main",
+    "token": "KEYWORD"
+  },
+  {
+    "lexeme": "(",
+    "token": "OPENEDPAREN"
+  },
+  {
+    "lexeme": ")",
+    "token": "CLOSEDPAREN"
+  },
+  {
+    "lexeme": "{",
+    "token": "OPENEDBRACE"
+  },
+  {
+    "lexeme": "x",
+    "token": "IDENTIFIER"
+  },
+  {
+    "lexeme": "=",
+    "token": "OPERATOR"
+  },
+  {
+    "lexeme": 10,
+    "token": "INTEGER"
+  },
+  {
+    "lexeme": ";",
+    "token": "SEMICOLON"
+  },
+  {
+    "lexeme": "if",
+    "token": "KEYWORD"
+  },
+  {
+    "lexeme": "(",
+    "token": "OPENEDPAREN"
+  },
+  {
+    "lexeme": "=",
+    "token": "OPERATOR"
+  },
+  {
+    "lexeme": "=",
+    "token": "OPERATOR"
+  },
+  {
+    "lexeme": 10,
+    "token": "INTEGER"
+  },
+  {
+    "lexeme": ")",
+    "token": "CLOSEDPAREN"
+  },
+  {
+    "lexeme": "{",
+    "token": "OPENEDBRACE"
+  },
+  {
+    "lexeme": "x",
+    "token": "IDENTIFIER"
+  },
+  {
+    "lexeme": "=",
+    "token": "OPERATOR"
+  },
+  {
+    "lexeme": 5,
+    "token": "INTEGER"
+  },
+  {
+    "lexeme": ";",
+    "token": "SEMICOLON"
+  },
+  {
+    "lexeme": "}",
+    "token": "CLOSEDBRACE"
+  },
+  {
+    "lexeme": "else",
+    "token": "KEYWORD"
+  },
+  {
+    "lexeme": "{",
+    "token": "OPENEDBRACE"
+  },
+  {
+    "lexeme": "x",
+    "token": "IDENTIFIER"
+  },
+  {
+    "lexeme": "=",
+    "token": "OPERATOR"
+  },
+  {
+    "lexeme": 0,
+    "token": "INTEGER"
+  },
+  {
+    "lexeme": ";",
+    "token": "SEMICOLON"
+  },
+  {
+    "lexeme": "}",
+    "token": "CLOSEDBRACE"
+  },
+  {
+    "lexeme": "return",
+    "token": "KEYWORD"
+  },
+  {
+    "lexeme": 0,
+    "token": "INTEGER"
+  },
+  {
+    "lexeme": ";",
+    "token": "SEMICOLON"
+  },
+  {
+    "lexeme": "}",
+    "token": "CLOSEDBRACE"
+  }
+]
